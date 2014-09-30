@@ -1,0 +1,185 @@
+#container {
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: -8px;
+	width: 960px;
+}
+#navtitle {
+	Color: black;
+	float: left;
+	background-color: #444444;
+	width: 232px;
+	height: 50px;
+	margin-top: 13px;
+	border: 1px solid;
+    border-radius: 5px;
+	border-color: #721700;
+}
+#nav {
+	float: right;
+	width: 660px;
+	height: 50px;
+	background-color: #444444;
+	text-align: center;
+	border: 1px solid;
+    border-radius: 5px;
+	border-color: #721700;
+}
+#leftbox {
+	float: left;
+	width: 232px;
+	border: 1px solid;
+    border-radius: 5px;
+	border-color: #721700;
+}
+#textbox1 {
+	text-align: left;
+	background-color: #444444;
+	width: 700px;
+	float: right;
+	border: 1px solid;
+    border-radius: 5px;
+	border-color: #721700;
+}
+
+li {
+	text-decoration: none;
+}
+#navtitle li {
+	float: left;
+	padding-left: 10px;
+	padding-top: -25px;
+}
+#nav li {
+	float: left;
+	padding-right: 20px;
+	padding-top: -25px;
+}
+#logo {
+	padding-top: 10px;
+}
+#searchbar {
+	display: inline-block;
+	float: right;
+}
+body {
+	text-align: center;
+	font: small/1.3 Arial, Helvetica, sans-serif;
+	color: #444444;
+	background-image: url("Images/Background/BackGround Website2.png");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+h1 {
+	font-family: Impact, Charcoal, sans-serif;
+	font-size: 1.5em;
+	color: white;
+	padding-top: 12px;
+	padding-bottom: 5px;
+    padding-right: 25px;
+    padding-left: 25px;
+}
+h2 {
+	font-size: 1.5em;
+	color: white;
+	padding-top: 10px;
+	padding-bottom: 5px;
+    padding-right: 25px;
+    padding-left: 25px;
+}
+h3 {
+	font-size: 1.5em;
+	color: white;
+	padding-top: 10px;
+    padding-right: 25px;
+    padding-left: 25px;
+}
+a {
+	color: #bababa;
+	padding-left: 25px;
+}
+b {
+	color: #bababa;
+    padding-right: 25px;
+    padding-bottom: 6px;
+    padding-left: 25px;
+}
+p {
+	font-family: "Trebuchet MS", Helvetica, sans-serif;
+	color: #bababa;
+    padding-right: 25px;
+    padding-bottom: 6px;
+    padding-left: 25px;
+}
+
+#gameImages {
+    padding: 15px 15px 15px 15px;
+}
+#centeredImage {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+#invisible1 {
+	height: 8px;
+	clear: both;
+	width: 931px;
+}
+#invisible2 {
+	height: 20px;
+	clear: both;
+	width: 933px;
+}
+#footer {
+	color: black;
+	padding: 13px;
+	clear: both;
+    text-align: center;
+	width: 933px;
+	background-color: #444444;
+	border: 1px solid;
+    border-radius: 5px;
+	border-color: #721700;
+}
+#contentTop {
+	font-family: bebas-neue;
+	background-color: #721700;
+	margin: 0px 0px 0px 0px;
+	width: 100%;
+	display: inline-block;
+	font-style: normal;
+	font-weight: 400;
+	padding-bottom: 4px;
+}
+#paragraph {
+	font-size: 28px;
+	color: white;
+}
+
+#game0 {
+    margin-left: 20px;
+    margin-bottom: 20px;
+    margin-top: 20px;
+    width: 400px;
+    
+}
+
+#gamehead {
+    background-color: #8b248b;
+    height: 40px;
+    width: 100%;
+    display: inline-block;
+    color: #ffffff;
+    text-align: center;
+    font-size: 20px;
+    padding-top: 10px;
+}
+
+#gameinfo {
+    background-color: #1a967a;
+    margin-top: -40px;
+    height: 40px;
+    width: 100%;
+    color: #ffffff;
+    
+}
